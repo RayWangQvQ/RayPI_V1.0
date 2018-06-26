@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RayPI</name>
+    </assembly>
+    <members>
+        <member name="T:RayPI.Controllers.Admin.StudentController">
+            <summary>
+            学生模块
+            </summary>
+        </member>
+        <member name="M:RayPI.Controllers.Admin.StudentController.GetStudentPageList(System.Int32,System.Int32)">
+            <summary>
+            获取学生分页列表
+            </summary>
+            <param name="pageIndex"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RayPI.Controllers.Admin.StudentController.GetStudentById(System.Int64)">
+            <summary>
+            获取单个学生
+            </summary>
+            <param name="id">Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:RayPI.Controllers.Admin.StudentController.Add(RayPI.Entity.Student)">
+            <summary>
+            添加
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RayPI.Controllers.Admin.StudentController.Update(RayPI.Entity.Student)">
+            <summary>
+            编辑学生
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RayPI.Controllers.Admin.StudentController.Dels(System.Object[])">
+            <summary>
+            删除学生
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="T:RayPI.Controllers.Client.StudentController">
+            <summary>
+            学生模块
+            </summary>
+        </member>
+        <member name="T:RayPI.Controllers.ValuesController">
+            <summary>
+            测试接口
+            </summary>
+        </member>
+        <member name="M:RayPI.Controllers.ValuesController.Get">
+            <summary>
+            获取全部
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RayPI.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            获取单个
+            </summary>
+            <param name="id">测试id</param>
+            <returns></returns>
+        </member>
+        <member name="M:RayPI.Controllers.ValuesController.Post(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:RayPI.Controllers.ValuesController.Put(System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:RayPI.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="T:RayPI.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:RayPI.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:RayPI.Program.BuildWebHost(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:RayPI.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:RayPI.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:RayPI.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:RayPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:RayPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+        <member name="T:CKPI.SwaggerHelp.SwaggerDocTag">
+            <summary>
+            Swagger注释帮助类
+            </summary>
+        </member>
+        <member name="M:CKPI.SwaggerHelp.SwaggerDocTag.Apply(Swashbuckle.AspNetCore.Swagger.SwaggerDocument,Swashbuckle.AspNetCore.SwaggerGen.DocumentFilterContext)">
+            <summary>
+            添加附加注释
+            </summary>
+            <param name="swaggerDoc"></param>
+            <param name="context"></param>
+        </member>
+    </members>
+</doc>

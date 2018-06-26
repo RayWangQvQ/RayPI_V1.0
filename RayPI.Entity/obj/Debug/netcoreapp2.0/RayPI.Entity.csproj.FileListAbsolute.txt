@@ -1,0 +1,12 @@
+D:\MyProjects\RayPI\RayPI.Entity\obj\Debug\netcoreapp2.0\RayPI.Entity.csprojAssemblyReference.cache
+D:\MyProjects\RayPI\RayPI.Entity\obj\Debug\netcoreapp2.0\RayPI.Entity.csproj.CoreCompileInputs.cache
+D:\MyProjects\RayPI\RayPI.Entity\obj\Debug\netcoreapp2.0\RayPI.Entity.AssemblyInfoInputs.cache
+D:\MyProjects\RayPI\RayPI.Entity\obj\Debug\netcoreapp2.0\RayPI.Entity.AssemblyInfo.cs
+D:\MyProjects\RayPI\RayPI.Entity\bin\Debug\netcoreapp2.0\RayPI.Entity.deps.json
+D:\MyProjects\RayPI\RayPI.Entity\bin\Debug\netcoreapp2.0\RayPI.Entity.dll
+D:\MyProjects\RayPI\RayPI.Entity\bin\Debug\netcoreapp2.0\RayPI.Entity.pdb
+D:\MyProjects\RayPI\RayPI.Entity\bin\Debug\netcoreapp2.0\SqlSugar.dll
+D:\MyProjects\RayPI\RayPI.Entity\bin\Debug\netcoreapp2.0\SqlSugar.pdb
+D:\MyProjects\RayPI\RayPI.Entity\obj\Debug\netcoreapp2.0\RayPI.Entity.csproj.CopyComplete
+D:\MyProjects\RayPI\RayPI.Entity\obj\Debug\netcoreapp2.0\RayPI.Entity.dll
+D:\MyProjects\RayPI\RayPI.Entity\obj\Debug\netcoreapp2.0\RayPI.Entity.pdb

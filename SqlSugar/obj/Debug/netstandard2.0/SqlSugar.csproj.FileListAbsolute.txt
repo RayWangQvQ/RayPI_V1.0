@@ -1,0 +1,9 @@
+D:\MyProjects\RayPI\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.deps.json
+D:\MyProjects\RayPI\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.dll
+D:\MyProjects\RayPI\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.pdb
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.csprojAssemblyReference.cache
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.csproj.CoreCompileInputs.cache
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfoInputs.cache
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfo.cs
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.dll
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.pdb
